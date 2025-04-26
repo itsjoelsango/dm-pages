@@ -31,7 +31,7 @@ At RC, we value your privacy. We want to assure you that we do not collect any p
 
 ### Privacy Policy
 
-For more details, please refer to our [Privacy Policy]().
+For more details, please refer to our [Privacy Policy](_posts/2025-04-26-privacy-policy.md).
 
 ## Contact Us
 
